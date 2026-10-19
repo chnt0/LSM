@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="personas">
+        <item>Video Personas</item>
+        <item>Familia</item>
+        <item>Abuelo</item>
+        <item>Adolescente</item>
+        <item>Adulto</item>
+        <item>Casado</item>
+        <item>Esposo</item>
+        <item>Bebé</item>
+        <item>Anciano</item>
+        <item>Guero </item>
+        <item>Bisabuelo</item>
+        <item>Bisnieto</item>
+        <item>Amante</item>
+        <item>Amigo</item>
+        <item>Embarazada</item>
+        <item>Ciego</item>
+        <item>Comadre</item>
+        <item>Compadre</item>
+        <item>Compañero</item>
+        <item>Famoso</item>
+        <item>Ahijado</item>
+        <item>Extranjero</item>
+        <item>Extraño</item>
+        <item>Lesbiana</item>
+        <item>Gay</item>
+        <item>Mujer</item>
+        <item>Hombre</item>
+        <item>Joven</item>
+        <item>Rubio</item>
+        <item>Hemano</item>
+        <item>Hijastro</item>
+        <item>Hijo </item>
+        <item>Padrastro</item>
+        <item>Nuera</item>
+        <item>Moreno </item>
+        <item>Negro(Raza)</item>
+        <item>Madrastra</item>
+        <item>Madrina</item>
+        <item>Mamá</item>
+        <item>Papá</item>
+        <item>Nieto</item>
+        <item>Novio</item>
+        <item>Novia</item>
+        <item>Sordo</item>
+        <item>Padrino</item>
+        <item>Gente </item>
+        <item>Oyente</item>
+        <item>Yerno</item>
+        <item>Persona</item>
+        <item>Viejo</item>
+        <item>Pareja</item>
+        <item>Soltero</item>
+        <item>Viudo</item>
+        <item>Señor</item>
+        <item>Señorita</item>
+        <item>Sexo</item>
+        <item>Primo</item>
+        <item>Tío</item>
+        <item>Vecino</item>
+        <item>Cuñado</item>
+        <item>Concuño</item>
+        <item>Suegro</item>
+        <item>Tatarabuelo</item>
+        <item>Union libre</item>
+        <item>Separado</item>
+    </string-array>
+</resources>

@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="todas">
+        <item>Animal</item>
+        <item>Abeja</item>
+        <item>Águila</item>
+        <item>Alacrán</item>
+        <item>Araña</item>
+        <item>Ardilla</item>
+        <item>Asno</item>
+        <item>Ballena</item>
+        <item>Borrego</item>
+        <item>Buey</item>
+        <item>Búfalo</item>
+        <item>Búho</item>
+        <item>Burro</item>
+        <item>Caballo</item>
+        <item>Cabra</item>
+        <item>Calamar</item>
+        <item>Camaron</item>
+        <item>Cangrejo</item>
+        <item>Canguro</item>
+        <item>Caracol</item>
+        <item>Cebra</item>
+        <item>Cerdo</item>
+        <item>Chango</item>
+        <item>Chapulin</item>
+        <item>Chivo</item>
+        <item>Cisne</item>
+        <item>Cochino</item>
+        <item>Cocodrilo</item>
+        <item>Conejo</item>
+        <item>Cucaracha</item>
+        <item>Delfin</item>
+        <item>Elefante</item>
+        <item>Escorpion</item>
+        <item>Foca</item>
+        <item>Gallina</item>
+        <item>Gallo</item>
+        <item>Ganso</item>
+        <item>Gato</item>
+        <item>Gorila</item>
+        <item>Grillo</item>
+        <item>Guajolote</item>
+        <item>Gusano</item>
+        <item>Hipopotamo</item>
+        <item>Hormiga</item>
+        <item>Iguana</item>
+        <item>Jabali</item>
+        <item>Jirafa</item>
+        <item>Langosta</item>
+        <item>Leon</item>
+        <item>Libelula</item>
+        <item>Llama</item>
+        <item>Lobo</item>
+        <item>Lombriz</item>
+        <item>Mariposa</item>
+        <item>Mono</item>
+        <item>Mosca</item>
+        <item>Mosquito</item>
+        <item>Oso</item>
+        <item>Oveja</item>
+        <item>Pajaro</item>
+        <item>Paloma</item>
+        <item>Pato</item>
+        <item>Pavo real</item>
+        <item>Pelicano</item>
+        <item>Perico</item>
+        <item>Perro</item>
+        <item>Pez</item>
+        <item>Pingüino</item>
+        <item>Pollo</item>
+        <item>Puerco</item>
+        <item>Puerco espín</item>
+        <item>Pulpo</item>
+        <item>Rana/Sapo</item>
+        <item>Ratón/Rata</item>
+        <item>Reptil</item>
+        <item>Rinoceronte</item>
+        <item>Tiburón</item>
+        <item>Tigre</item>
+        <item>Toro</item>
+        <item>Tortuga</item>
+        <item>Vaca</item>
+        <item>Venado</item>
+        <item>Víbora</item>
+        <item>Zorrillo</item>
+        <item>Zorro</item>
+        <item>Alfombra</item>
+        <item>Almohada</item>
+        <item>Aspiradora</item>
+        <item>Azotea</item>
+        <item>Baño</item>
+        <item>Basura</item>
+        <item>Batidora</item>
+        <item>Caja</item>
+        <item>Cajón</item>
+        <item>Cama</item>
+        <item>Carta</item>
+        <item>Cepillo de dientes</item>
+        <item>Cerillo</item>
+        <item>Chimenea</item>
+        <item>Closet</item>
+        <item>Cobija</item>
+        <item>Cocina</item>
+        <item>Comedor</item>
+        <item>Cómoda</item>
+        <item>Computadora</item>
+        <item>Crema</item>
+        <item>Cuaderno</item>
+        <item>Cuarto</item>
+        <item>Cuchillo</item>
+        <item>Departamento</item>
+        <item>Detergente</item>
+        <item>Dinero</item>
+        <item>Escalera</item>
+        <item>Escoba</item>
+        <item>Espejo</item>
+        <item>Esponja</item>
+        <item>Estufa</item>
+        <item>Flor</item>
+        <item>Foco</item>
+        <item>Fuego</item>
+        <item>Gabinete</item>
+        <item>Gasolina</item>
+        <item>Gel para Cabello</item>
+        <item>Goma de Borrar</item>
+        <item>Horno</item>
+        <item>Horno de Microondas</item>
+        <item>Internet</item>
+        <item>Jabón de tocador</item>
+        <item>Lámpara</item>
+        <item>Lápiz</item>
+        <item>Lavadora</item>
+        <item>Libro</item>
+        <item>Licuadora</item>
+        <item>Llave</item>
+        <item>Luz</item>
+        <item>Mantel</item>
+        <item>Mapa</item>
+        <item>Mesa</item>
+        <item>Mueble</item>
+        <item>Papel de Baño</item>
+        <item>Pared</item>
+        <item>Pasta de Dientes</item>
+        <item>Patio</item>
+        <item>Pegamento</item>
+        <item>Peine</item>
+        <item>Película</item>
+        <item>Periódico</item>
+        <item>Piso</item>
+        <item>Plancha</item>
+        <item>Planta</item>
+        <item>Plato</item>
+        <item>Pluma</item>
+        <item>Puerta</item>
+        <item>Recamara</item>
+        <item>Refrigerador</item>
+        <item>Regadera</item>
+        <item>Regla</item>
+        <item>Ropero</item>
+        <item>Sabana</item>
+        <item>Salón</item>
+        <item>Secadora de Cabello</item>
+        <item>Semáforo</item>
+        <item>Silla</item>
+        <item>Spray</item>
+        <item>Tapete</item>
+        <item>Taza</item>
+        <item>Techo</item>
+        <item>Teléfono</item>
+        <item>Televisión</item>
+        <item>Tenedor</item>
+        <item>Tijeras</item>
+        <item>Toalla</item>
+        <item>Toalla Sanitaria</item>
+        <item>Vaso</item>
+        <item>Ventana</item>
+        <item>Vidrio</item>
+        <item>Videocasetera</item>
+        <item>Ventilador</item>
+    </string-array>
+
+</resources>

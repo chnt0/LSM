@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="animales">
+        <item>Lista Animales</item>
+        <item>Animal</item>
+        <item>Abeja</item>
+        <item>Águila</item>
+        <item>Alacrán</item>
+        <item>Araña</item>
+        <item>Ardilla</item>
+        <item>Asno/Burro</item>
+        <item>Ballena</item>
+        <item>Borrego</item>
+        <item>Buey</item>
+        <item>Búfalo</item>
+        <item>Búho</item>
+        <item>Caballo</item>
+        <item>Cabra</item>
+        <item>Calamar</item>
+        <item>Camaron</item>
+        <item>Cangrejo</item>
+        <item>Canguro</item>
+        <item>Caracol</item>
+        <item>Cebra</item>
+        <item>Cerdo</item>
+        <item>Chango</item>
+        <item>Chapulin</item>
+        <item>Chivo</item>
+        <item>Cisne</item>
+        <item>Cocodrilo</item>
+        <item>Conejo</item>
+        <item>Cucaracha</item>
+        <item>Delfin</item>
+        <item>Elefante</item>
+        <item>Escorpion</item>
+        <item>Foca</item>
+        <item>Gallina</item>
+        <item>Gallo</item>
+        <item>Ganso</item>
+        <item>Gato</item>
+        <item>Gorila</item>
+        <item>Grillo</item>
+        <item>Guajolote</item>
+        <item>Gusano</item>
+        <item>Hipopotamo</item>
+        <item>Hormiga</item>
+        <item>Iguana</item>
+        <item>Jabali</item>
+        <item>Jirafa</item>
+        <item>León</item>
+        <item>Libelula</item>
+        <item>Llama</item>
+        <item>Lobo</item>
+        <item>Lombriz</item>
+        <item>Mariposa</item>
+        <item>Mosca</item>
+        <item>Mosquito</item>
+        <item>Oso</item>
+        <item>Oveja</item>
+        <item>Pajaro</item>
+        <item>Paloma</item>
+        <item>Pato</item>
+        <item>Pavo real</item>
+        <item>Pelicano</item>
+        <item>Perico</item>
+        <item>Perro</item>
+        <item>Pez</item>
+        <item>Pingüino</item>
+        <item>Pollo</item>
+        <item>Puerco espín</item>
+        <item>Pulpo</item>
+        <item>Rana/Sapo</item>
+        <item>Ratón/Rata</item>
+        <item>Reptil</item>
+        <item>Rinoceronte</item>
+        <item>Tiburón</item>
+        <item>Tigre</item>
+        <item>Toro</item>
+        <item>Tortuga</item>
+        <item>Vaca</item>
+        <item>Venado</item>
+        <item>Víbora</item>
+        <item>Zorrillo</item>
+        <item>Zorro</item>
+    </string-array>
+</resources>

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Diccionario LSM</string>
+    <string name="title_activity_home">Menu</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Diccionario LSM</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Donar</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="donar_titulo">Apoya el Diccionario LSM</string>
+    <string name="donar_mensaje">Esta app es gratuita. Tu donación ayuda a pagar el mantenimiento y a publicar nuevos videos y categorías de Lengua de Señas Mexicana.</string>
+    <string name="donar_elige_monto">Elige un monto (MXN)</string>
+    <string name="donar_monto_20">Donar $20</string>
+    <string name="donar_monto_50">Donar $50</string>
+    <string name="donar_monto_100">Donar $100</string>
+    <string name="donar_otro_monto">Otro monto</string>
+    <string name="donar_gracias">¡Gracias por tu apoyo! La donación se realiza en PayPal y es completamente voluntaria.</string>
+    <string name="donar_sin_navegador">No se encontró un navegador para abrir PayPal</string>
+</resources>

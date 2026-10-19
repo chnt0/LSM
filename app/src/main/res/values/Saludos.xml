@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="saludos">
+        <item>Lista de Saludos </item>
+        <item>Buenas Noches</item>
+        <item>Buenas Tardes</item>
+        <item>Buenos Días</item>
+        <item>¿Cómo Estas?</item>
+        <item>¿Cómo te llamas?</item>
+        <item>Con Permiso</item>
+        <item>De nada</item>
+        <item>Gracias</item>
+        <item>Hola</item>
+        <item>Mucho gusto</item>
+        <item>Por favor</item>
+        <item>¿Qué significa?</item>
+    </string-array>
+</resources>

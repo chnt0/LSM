@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/abc"
+            android:icon="@drawable/ic_buton"
+            android:title="Abecedario" />
+        <item
+            android:id="@+id/numeros"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Numeros" />
+        <item
+            android:id="@+id/animales"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Animales" />
+        <item
+            android:id="@+id/casa_mueble"
+            android:icon="@drawable/ic_casa"
+            android:title="Casa y Muebles" />
+
+        <item
+            android:id="@+id/colores"
+            android:icon="@drawable/ic_colors"
+            android:title="Colores" />
+
+        <item
+            android:id="@+id/cuestionamiento"
+            android:icon="@drawable/ic_help"
+            android:title="Preguntas" />
+
+        <item
+            android:id="@+id/saludos"
+            android:icon="@drawable/ic_hello"
+            android:title="Saludos" />
+
+        <item
+            android:id="@+id/animo"
+            android:icon="@drawable/ic_animo"
+            android:title="Estados de animo" />
+
+        <item
+            android:id="@+id/comida"
+            android:icon="@drawable/ic_comida"
+            android:title="Comida" />
+        <item
+            android:id="@+id/verbos"
+            android:icon="@drawable/ic_verbo"
+            android:title="Verbos" />
+        <item
+            android:id="@+id/personas"
+            android:icon="@drawable/ic_humano"
+            android:title="Personas" />
+        <item
+            android:id="@+id/pronombres"
+            android:icon="@drawable/ic_humano"
+            android:title="Pronombres" />
+
+    </group>
+
+    <item
+        android:id="@+id/donar"
+        android:icon="@drawable/ic_donar"
+        android:title="Donar" />
+
+    <item android:title="Proximamente">
+        <menu>
+
+
+
+        <item
+            android:id="@+id/cuerpoH"
+            android:icon="@drawable/ic_humano"
+            android:title="Cuerpo Humano" />
+        <item
+            android:id="@+id/deportes"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Deportes y Juguetes" />
+        <item
+            android:id="@+id/estados"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Estados y Capitales" />
+        <item
+            android:id="@+id/herramientas"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Instrumentos de Trabajo" />
+        <item
+            android:id="@+id/lugares"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Lugares" />
+        <item
+            android:id="@+id/minerales"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Minerales" />
+        <item
+            android:id="@+id/paises"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Paises y Ciudades" />
+
+        <item
+            android:id="@+id/profeciones"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Profeciones y Oficios" />
+
+        <item
+            android:id="@+id/Religion"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Religion" />
+        <item
+            android:id="@+id/ropa"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Ropa" />
+        <item
+            android:id="@+id/tiempo"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Tiempo" />
+        <item
+            android:id="@+id/transporte"
+            android:icon="@drawable/ic_transportes"
+            android:title="Transporte" />
+        <item
+            android:id="@+id/preadjsus"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Preposiciones Adjetivos y Sustantivos" />
+        </menu>
+    </item>
+
+</menu>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="colores">
+        <item>Lista Colores</item>
+        <item>Color</item>
+        <item>Amarillo</item>
+        <item>Anaranjado</item>
+        <item>Azul</item>
+        <item>Blanco</item>
+        <item>Brillante</item>
+        <item>Bronce</item>
+        <item>Cobre</item>
+        <item>Gris</item>
+        <item>Metálico</item>
+        <item>Morado</item>
+        <item>Negro</item>
+        <item>Oscuro</item>
+        <item>Plateado</item>
+        <item>Rojo</item>
+        <item>Rosa</item>
+        <item>Verde</item>
+    </string-array>
+
+
+</resources>

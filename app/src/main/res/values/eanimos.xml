@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="eanimos">
+        <item>Estados de animo</item>
+        <item>Aburrido</item>
+        <item>Asustado</item>
+        <item>Cansado</item>
+        <item>Confundido</item>
+        <item>Contento</item>
+        <item>Coraje</item>
+        <item>Enojado</item>
+        <item>Feliz</item>
+        <item>Furioso</item>
+        <item>Molesto</item>
+        <item>Nervios</item>
+        <item>Orgullos</item>
+        <item>Pensativo</item>
+        <item>Preocupado</item>
+        <item>Presumido</item>
+        <item>Serio </item>
+        <item>Sorprendido</item>
+        <item>Tímido</item>
+        <item>Triste</item>
+    </string-array>
+</resources>

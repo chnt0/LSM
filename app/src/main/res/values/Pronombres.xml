@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pronombres">
+        <item>Video pronombres </item>
+        <item>Yó</item>
+        <item>Tu</item>
+        <item>Él</item>
+        <item>Ella</item>
+        <item>Nosotros</item>
+        <item>Ellos</item>
+        <item>Ellas</item>
+        <item>Ustedes</item>
+        <item>Mi</item>
+        <item>Mío</item>
+        <item>Tuyo</item>
+        <item>Sus/Suyos/Suyas</item>
+        <item>Nuestro</item>
+    </string-array>
+</resources>

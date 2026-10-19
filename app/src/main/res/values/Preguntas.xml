@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="preguntas">
+        <item>Video lista de Preguntas</item>
+        <item>¿Cómo?</item>
+        <item>¿Cuál?</item>
+        <item>¿Cuando?</item>
+        <item>¿Cuántos?</item>
+        <item>¿Dónde?</item>
+        <item>¿Para que?</item>
+        <item>¿Por qué?</item>
+        <item>Pregunta</item>
+        <item>¿Qué?</item>
+        <item>¿Qué te importa?</item>
+        <item>¿Quién?</item>
+        <item>No importa</item>
+    </string-array>
+</resources>
